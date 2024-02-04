@@ -1,24 +1,25 @@
 # Expense-Tracker
 
 ## Technologies Used
-  -Node.js
-  -Express
-  -JavaScript
-  -HTML
-  -CSS
-  -AWS S3
+  -Node.js<br>
+  -Express<br>
+  -JavaScript<br>
+  -HTML<br>
+  -CSS<br>
+  -AWS S3<br>
+  -RazorPay<br>
 
 ## API Used
-  -AWS Iam User
-  -Send In Blue
-  -RazorPay
+  -AWS Iam User<br>
+  -Send In Blue<br>
+  -RazorPay<br>
 
 ## Functionalities
-  -Implemented the recover password functionality with the help of Send In Blue API.
-  -And I have implemented the functionality of "Buy Premium", user can buy premium to explore extra features like Leaderboard and Download Expenses list.
-  -User can see his/her expenses category wise in the pie chart.
-  -If user clicks on Download file button , then all expenses of the user get upload to AWS S3 bucket which provides link to file in response and then file gets downloaded.
-  -Implemented pagination to be able to see only 7 expenses per page thus added prev and next button to see other expenses.
+  -Implemented the recover password functionality with the help of Send In Blue API.<br>
+  -And I have implemented the functionality of "Buy Premium", user can buy premium to explore extra features like Leaderboard and Download Expenses list.<br>
+  -User can see his/her expenses category wise in the pie chart.<br>
+  -If user clicks on Download file button , then all expenses of the user get upload to AWS S3 bucket which provides link to file in response and then file gets downloaded.<br>
+  -Implemented pagination to be able to see only 7 expenses per page thus added prev and next button to see other expenses.<br>
   
 ## Results
 
