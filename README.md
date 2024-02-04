@@ -1,26 +1,26 @@
 # Expense-Tracker
   A web application to track all expenses of user and gives some extra features to user if user is a premium user.
 ## Technologies Used
-  -Node.js<br>
-  -Express<br>
-  -JavaScript<br>
-  -HTML<br>
-  -CSS<br>
-  -AWS S3<br>
-  -RazorPay<br>
+- Node.js<br>
+- Express<br>
+- JavaScript<br>
+- HTML<br>
+- CSS<br>
+- AWS S3<br>
+- RazorPay<br>
 
 ## API Used
-  -AWS Iam User<br>
-  -Send In Blue<br>
-  -RazorPay<br>
+- AWS Iam User<br>
+- Send In Blue<br>
+- RazorPay<br>
 
 ## Functionalities
-  -Added authentication functionality for user with help of JWT.<br>
-  -Implemented the recover password functionality with the help of Send In Blue API.<br>
-  -And I have implemented the functionality of "Buy Premium", user can buy premium to explore extra features like Leaderboard and Download Expenses list.<br>
-  -User can see his/her expenses category wise in the pie chart.<br>
-  -If user clicks on Download file button , then all expenses of the user get upload to AWS S3 bucket which provides link to file in response and then file gets downloaded.<br>
-  -Implemented pagination to be able to see only 7 expenses per page thus added prev and next button to see other expenses.<br>
+- Added authentication functionality for user with help of JWT.<br>
+- Implemented the recover password functionality with the help of Send In Blue API.<br>
+- And I have implemented the functionality of "Buy Premium", user can buy premium to explore extra features like Leaderboard and Download Expenses list.<br>
+- User can see his/her expenses category wise in the pie chart.<br>
+- If user clicks on Download file button , then all expenses of the user get upload to AWS S3 bucket which provides link to file in response and then file gets downloaded.<br>
+- Implemented pagination to be able to see only 7 expenses per page thus added prev and next button to see other expenses.<br>
   
 ## Results
 
