@@ -15,6 +15,7 @@
   -RazorPay<br>
 
 ## Functionalities
+  -Added authentication functionality for user with help of JWT.<br>
   -Implemented the recover password functionality with the help of Send In Blue API.<br>
   -And I have implemented the functionality of "Buy Premium", user can buy premium to explore extra features like Leaderboard and Download Expenses list.<br>
   -User can see his/her expenses category wise in the pie chart.<br>
