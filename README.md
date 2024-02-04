@@ -1,5 +1,5 @@
 # Expense-Tracker
-
+  A web application to track all expenses of user and gives some extra features to user if user is a premium user.
 ## Technologies Used
   -Node.js<br>
   -Express<br>
